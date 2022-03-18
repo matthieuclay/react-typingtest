@@ -1,0 +1,64 @@
+{
+  "scoreboard": [
+    {
+      "score": 100,
+      "username": "Matthieu",
+      "date": 1647600370,
+      "id": 1
+    },
+    {
+      "score": 80,
+      "username": "Matthieu",
+      "date": 1647600380,
+      "id": 2
+    },
+    {
+      "score": 50,
+      "username": "Matthieu",
+      "date": 1647600390,
+      "id": 3
+    },
+    {
+      "score": 120,
+      "username": "Matthieu",
+      "date": 1647600400,
+      "id": 4
+    },
+    {
+      "score": 106,
+      "username": "Matthieu",
+      "date": 1647600410,
+      "id": 5
+    },
+    {
+      "score": 154,
+      "username": "Matthieu",
+      "date": 1647600420,
+      "id": 6
+    },
+    {
+      "score": null,
+      "username": "",
+      "date": "2022-03-18T13:19:52.224Z",
+      "id": 7
+    },
+    {
+      "score": 24,
+      "username": "Matthieucteter",
+      "date": "2022-03-18T13:21:39.483Z",
+      "id": 8
+    },
+    {
+      "score": 12,
+      "username": "",
+      "date": "2022-03-18T13:23:04.880Z",
+      "id": 9
+    },
+    {
+      "score": 52,
+      "username": "",
+      "date": "2022-03-18T13:23:40.173Z",
+      "id": 10
+    }
+  ]
+}
